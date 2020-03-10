@@ -4,6 +4,11 @@ Hello, here is the project that my partner and I completed for ECON7890 Foundati
 
 This project refers to the crawler project code (https://blog.csdn.net/Spratumn/article/details/100853846) published by Spratumn in the CSDN community.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+This project is in the context of the Shanghai Disney Tickets Increasing Incident that caused widespread public discussions on Shanghai Disney in December 2019. 
+The purpose of this project is to build a  primary semantic analysis AI of affective attitudes on target topics that can automatically identify Weibo's emotional attitudes by collecting Weibos with different emotional attitudes to Shanghai Disney. 
+
+----------------------------------------------------------------------------------------------------------------------------------------
 The participants of this project and their respective work are as follows:
 
 Xinyi Lu, project planning, code rewriting, adjustment, new function addition, data crawling and model debugging.
