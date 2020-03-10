@@ -6,7 +6,7 @@ This project refers to the crawler project code (https://blog.csdn.net/Spratumn/
 
 The participants of this project and their respective work are as follows:
 
-Xinyi lu, project planning, code rewriting, adjustment, new function addition, data crawling and model debugging.
+Xinyi Lu, project planning, code rewriting, adjustment, new function addition, data crawling and model debugging.
 
 Kaiwen Deng, project planning, data data labeling.
 
