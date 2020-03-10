@@ -12,7 +12,7 @@ Kaiwen Deng, project planning, data data labeling.
 
 Yueqi Su, PPT making, video making, data labeling (part of result analysis).
 
-Jiani Lei, add code comments, PPT making, video making (part ofalgorithm and code part).
+Jiani Lei, add code comments, PPT making, video making (part of algorithm and code part).
 
 Jiahe Wei, PPT pmaking, video making (part of background).
 
