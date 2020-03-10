@@ -1,6 +1,6 @@
 # Analysis-of-Public-Sentiment-of-Shanghai-Disneyland
 
-Hello, here is the project that my partner and I completed during the MSc in Data Analytics & Business Economics program at Hong Kong Baptist university.
+Hello, here is the project that my partner and I completed for ECON7890 Foundations in Big Data Analytics: Programming during the MSc in Data Analytics & Business Economics program at Hong Kong Baptist university.
 
 This project refers to the crawler project code (https://blog.csdn.net/Spratumn/article/details/100853846) published by Spratumn in the CSDN community.
 
