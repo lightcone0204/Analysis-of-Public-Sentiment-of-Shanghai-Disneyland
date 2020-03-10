@@ -6,6 +6,7 @@ This project refers to the crawler project code (https://blog.csdn.net/Spratumn/
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 This project is in the context of the Shanghai Disney Tickets Increasing Incident that caused widespread public discussions on Shanghai Disney in December 2019. 
+
 The purpose of this project is to build a  primary semantic analysis AI of affective attitudes on target topics that can automatically identify Weibo's emotional attitudes by collecting Weibos with different emotional attitudes to Shanghai Disney. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
